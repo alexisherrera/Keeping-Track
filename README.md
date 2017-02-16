@@ -3,7 +3,7 @@ Java GUI that I developed for New Challenge Day Centers that kept track of time,
 
 ## Getting Started
 
-To get this running locally I recomend downloading the entire repo and saving it into a folder. Once saved compile the Serenade.java file and run the Serenade.class file through the command line. If you have an IDE like Eclipse you could simply run the Serenade.java file.
+To get this running locally I recomend downloading the entire repo and saving it into a folder. Once saved compile the NewChallengeProgram.java file and run the NewChallengeProgram.class file through the command line. If you have an IDE like Eclipse you could simply run the NewChallengeProgram.java file.
 
 ### Clone repo
 
